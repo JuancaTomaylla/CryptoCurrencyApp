@@ -10,7 +10,7 @@
    Aplicación para consultar precios de criptomonedas usando la API de CryptoCompare
     <br />
     <br />
-    <a href="https://apigithubjobsapp-jc.netlify.app/">View Demo</a>
+    <a href="https://apipixabayapp-jc.netlify.app/">View Demo</a>
   </p>
 </p>
 
